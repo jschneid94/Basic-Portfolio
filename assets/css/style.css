@@ -4,6 +4,19 @@ body {
     background-image: url("background.png");
 }
 
+footer {
+    border-top: solid 8px #4aaaa5;
+    background-color: #666666;
+    height: 100%;
+    padding: 20px 0 0 0;
+}
+
+footer h5 {
+    text-align: center;
+    color: #AAAAAA;
+    margin-bottom: 5px;
+}
+
 .header {
     overflow: hidden;
     background-color: #ffffff;
@@ -60,8 +73,9 @@ body {
     margin-top: 35px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 115px;
     padding: 0px 30px;
-    border: solid 2px #cccccc;
+    border: solid 2px #dddddd;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     overflow: hidden;
