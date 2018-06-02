@@ -130,3 +130,19 @@ footer h5 {
 .text-box {
     padding: 5px;
 }
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.input-container input {
+    width: 100%;
+}
+
+#message input {
+    height: 200px;
+}
+
+.input-container h4 {
+    margin: 10px 0px;
+}
